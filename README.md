@@ -10,7 +10,7 @@
   
   > node app.js 或
   > 
-  > npm serve 或
+  > npm | yarn serve 或
   > 
   > pm2 start app.js --name wxHook
   
