@@ -10,7 +10,7 @@
   
   > node app.js 或
   > 
-  > npm | yarn serve 或
+  > npm || yarn serve 或
   > 
   > pm2 start app.js --name wxHook
   
@@ -21,7 +21,7 @@
   > 
   >  如：http://127.0.0.1:8001/key
   > 
-  >  也可以（无偿）使用个人已有服务 https://api.xpfei.cn/wxHook/key
+  >  也可以使用个人已有服务 https://api.xpfei.cn/wxHook/key
   > 
   > + 勾选 Push events、 Merger request events、Tag push events(仅支持常用3个)
   >
